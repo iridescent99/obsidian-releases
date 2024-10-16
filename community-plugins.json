@@ -13501,5 +13501,12 @@
     "author": "Titus",
     "description": "World building toolset with OnlyWorlds integration.",
     "repo": "OnlyWorlds/obsidian-plugin"
+  },
+  {
+    "id": "list-architect",
+    "name": "List Architect",
+    "author": "iridescent99",
+    "description": "Quickly add, delete, modify and check list items.",
+    "repo": "iridescent99/list-architect"
   }
 ]
